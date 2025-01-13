@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/S.O.S.uf2'
+elf = 'build/S.O.S.elf'
